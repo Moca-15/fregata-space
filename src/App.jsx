@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 
 // Import components
+import Homepage from './pages/Home.jsx'
 import Header from './components/Header.jsx';
 import Footer from './components/Footer.jsx';
 // import Homepage from './components/Homepage.jsx';
