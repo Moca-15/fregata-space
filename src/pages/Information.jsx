@@ -12,12 +12,16 @@ export default function Info() {
       <hr class="dotted"></hr>
       {/* Secció Solutions */}
       <Solutions />
+      <hr class="dotted"></hr>
       {/* Secció Process */}
       <Process />
+      <hr class="dotted"></hr>
       {/* Secció Features */}
       <Features />
+      <hr class="dotted"></hr>
       {/* Secció Industries */}
       <Industries />
+      <hr class="dotted"></hr>
       {/* Secció Testimonials */}
       <Testimonials />
     </section>
