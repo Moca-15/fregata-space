@@ -5,7 +5,7 @@
 - 16-1-24 : Add various modules (components)
 - 19-1-24 : Add main page & Info page
 - 20-1-24 : Automatic language detection
-- 
+- 22-1-24 : Aesthetic fixes
 
 [From https://nodejs.org]
 
