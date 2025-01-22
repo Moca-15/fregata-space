@@ -1,18 +1,18 @@
 {
-    "homepage": {
-      "header": {
-        "tagline": "Revolutionizing Security and Performance Through AI-Powered Vision.",
-        "about": "About us",
-        "solutions": "Solutions",
-        "contact": "Contact"
-      },
-      "hero": {
-        "headline": "AI-Driven Insights From Images and Videos",
-        "subheadline": "Unlock the potential of advanced image and video analytics for enhanced security and unparalleled performance.",
-        "ctaLearnMore": "Learn More",
-        "ctaRequestDemo": "Request a Demo"
-      }
+    "header": {
+      "title": "Fregata Space",
+      "tagline": "Revolutionizing Security and Performance Through AI-Powered Vision.",
+      "about": "About us",
+      "solutions": "Solutions",
+      "contact": "Contact"
     },
+    "hero": {
+      "headline": "AI-Driven Insights From Images and Videos",
+      "subheadline": "Unlock the potential of advanced image and video analytics for enhanced security and unparalleled performance.",
+      "ctaLearnMore": "Learn More",
+      "ctaRequestDemo": "Request a Demo"
+    },
+    
     "about": {
       "headline": "Who We Are",
       "content": "Fregata Space is at the forefront of AI-powered image and video analytics, dedicated to delivering cutting-edge solutions for security, monitoring, and high-performance applications. Our mission is to harness the power of artificial intelligence to transform data into actionable insights, empowering businesses and organizations worldwide."
@@ -22,39 +22,39 @@
       "security": {
         "title": "Security Analytics",
         "description": "Detect and respond to threats in real-time with our state-of-the-art video surveillance solutions. From facial recognition to anomaly detection, our technology ensures your assets and personnel are safeguarded.",
-        "features": {
-            "1": "Real-time object and intrusion detection.", 
-            "2": "Behavior analysis for identifying suspicious activities.",
-            "3": "Integration with existing security systems."
-        }
+        "features": [
+            "Real-time object and intrusion detection.", 
+            "Behavior analysis for identifying suspicious activities.",
+            "Integration with existing security systems."
+        ]
       },
       "performance": {
         "title": "Performance Analytics",
         "description": "Optimize operations and decision-making through advanced video and image processing. Our AI solutions are tailored for industries demanding precision and speed.",
-        "features": {
-            "1": "Traffic monitoring and vehicle analytics.",
-            "2": "Crowd density analysis",
-            "3": "Quality assurance in manufacturing using visual AI."
-        }
+        "features": [
+            "Traffic monitoring and vehicle analytics.",
+            "Crowd density analysis",
+            "Quality assurance in manufacturing using visual AI."
+        ]
       },
       "ai": {
         "title": "Custom AI Models",
         "description": "Every problem is unique, and so are our solutions. We develop custom AI models tailored to your specific needs.",
-        "features": {
-            "1": "End-to-end model design and deployment.",
-            "2": "Expertise in computer vision and machine learning.",
-            "3": "Scalable solutions for businesses of all sizes."
-        }
+        "features": [
+            "End-to-end model design and deployment.",
+            "Expertise in computer vision and machine learning.",
+            "Scalable solutions for businesses of all sizes."
+        ]
       }
     },
     "process": {
       "headline": "Our Process",
       "stepsIdx": [
-        "1. Discovery: ",
-        "2. Data Collection: ",
-        "3. Model Development: ",
-        "4. Deployment: ",
-        "5. Support: "
+        "Discovery",
+        "Data Collection",
+        "Model Development",
+        "Deployment",
+        "Support"
       ],
       "steps": [
         "We work with you to understand your specific requirements.",
@@ -82,10 +82,10 @@
     "industries": {
       "headline": "Industries We Serve",
       "listIdx" : [
-        "Smart Cities: ",
-        "Manufacturing: ",
-        "Retail: ",
-        "Aerospace & Defense: "
+        "Smart Cities",
+        "Manufacturing",
+        "Retail",
+        "Aerospace & Defense"
       ],
       "list": [
         "Traffic management, public safety, and crowd analytics.",
